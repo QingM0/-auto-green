@@ -1,6 +1,6 @@
 # auto-green
 
-[![Build Status](https://github.com/QingM0/auto-green/workflows/ci/badge.svg?branch=master)](https://github.com/QingM0/auto-green/actions)
+
 
 自动保持 GitHub 提交状态常绿。
 
